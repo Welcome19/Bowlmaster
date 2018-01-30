@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 92e51f6c83b019e40b37d76c0838873a
+timeCreated: 1517117530
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pentagon
+  fontNames:
+  - Pentagon
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
